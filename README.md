@@ -13,7 +13,7 @@ personal projects, so I hope you find something interesting here. Here's a bit a
 - 📫 Please, if you wanna reach me, just email me **ca.varaperez@gmail.com**
 
 <div style="margin:20px 0px;display:flex;flex-direction:column;align-items:center;">
-    <div style="display:flex;gap:10px;align-items:center">
+    <div style="display:flex;gap:10px;align-items:center;margin-bottom:10px;">
         <p>&nbsp;<img align="center"
                 src="https://github-readme-stats.vercel.app/api?username=the-eternal-newbie&show_icons=true&locale=en"
                 alt="the-eternal-newbie" />
@@ -30,7 +30,7 @@ personal projects, so I hope you find something interesting here. Here's a bit a
     </p>
 </div>
 <h3 align="left">Languages and Tools:</h3>
-<ul style="display:flex;flex-direction:column;flex-wrap:wrap;height:180px;margin:20px 0px;">
+<ul style="display:flex;flex-direction:column;flex-wrap:wrap;height:180px;margin:20px 0px;gap:20px;">
     <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" />
     </a>
