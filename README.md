@@ -5,7 +5,7 @@ Hey, thanks for visiting my profile ;) I'm currently looking to <b>contribute mo
 personal projects, so I hope you find something interesting here. Here's a bit about me:
 
 - 🐍 I started as a backend developer using Python.
-- ⚛ Then I became a frontend developer and recently specialized in a MERN (sometimes I missed backend).
+- ⚛ Then I became a frontend developer and recently specialized in MERN (sometimes I missed backend).
 - 🔭 I’m currently working on [my own minimal component
   library](https://github.com/the-eternal-newbie/minimal-components)
 - 🌱 I’m currently learning **Elixir, Phoenix LiveView and Three.js**
