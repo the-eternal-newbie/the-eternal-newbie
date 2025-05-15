@@ -51,11 +51,11 @@ I work mostly with:
 
 ---
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=the-eternal-newbie&show_icons=true&theme=default" alt="Carlos Vara GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-eternal-newbie&layout=compact&langs_count=10" alt="Carlos Vara Languages" />
 </div>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=the-eternal-newbie&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
